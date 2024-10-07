@@ -1,0 +1,45 @@
+library(ggraph)
+library(igraph)
+library(tidyverse)
+library(RColorBrewer) 
+
+d1<- data.frame(main = c("A","B", "C", "D"), sub_group = paste("Group", seq(1:4), sep = ""))
+d2<- data.frame(main = rep(d1$sub_group, each = 2), sub_group = as.character(seq(1:8)))
+edge = rbind(d1, d2)
+
+vertic = data.frame(
+  name = unique(c(edge$main, edge$sub_group)),
+  values = runif(4))
+
+vertic$id=NA
+myleaves=which(is.na( match(vertic$name, edge$main) ))
+nleaves=length(myleaves)
+vertic$id[ myleaves ] = seq(1:nleaves)
+vertic$angle= 90 - 360 * vertic$id / nleaves
+
+# calculate the alignment of labels: right or left
+# If I am on the left part of the plot, my labels have currently an angle < -90
+vertic$hjust<-ifelse( vertic$angle < -90, 1, 0)
+
+# flip angle BY to make them readable
+vertic$angle<-ifelse(vertic$angle < -90, vertic$angle+180, vertic$angle)
+
+# Create a graph object
+mygraph <- graph_from_data_frame( edge, vertices=vertic )
+
+# Make the plot
+ggraph(mygraph, layout = 'dendrogram', circular = TRUE) + 
+  geom_edge_diagonal(colour="grey") 
+
+
+  scale_edge_colour_distiller(palette = "RdPu") +
+  geom_node_text(aes(x = x*1.15, y=y*1.15, filter = leaf, label=name, angle = angle, hjust=hjust, colour=group), size=2.7, alpha=1) +
+  geom_node_point(aes(filter = leaf, x = x*1.07, y=y*1.07, colour=group, size=value, alpha=0.2)) +
+  scale_colour_manual(values= rep( brewer.pal(9,"Paired") , 30)) +
+  scale_size_continuous( range = c(0.1,10) ) +
+  theme_void() +
+  theme(
+    legend.position="none",
+    plot.margin=unit(c(0,0,0,0),"cm"),
+  ) +
+  expand_limits(x = c(-1.3, 1.3), y = c(-1.3, 1.3))
