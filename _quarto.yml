@@ -6,6 +6,8 @@ website:
   open-graph: true
   favicon: me.png
   navbar:
+    logo: me.png
+    pinned: true
     right: 
       - href: cv.qmd
         text: 🧑Curriculum Vittae
