@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "Prasaath Sastha"
+  open-graph: true
+  favicon: me.png
+  navbar:
+    right: 
+      - href: cv.qmd
+        text: 🧑Curriculum Vittae
+      - text: Projects
+        menu:
+        - href: publications.qmd
+          text: 📑 Publications
+        - href: https://prasaath-sastha.github.io/MSc-Project/
+          text: 📚 MSc. Project
+      - href: grades.qmd
+        text: 💯 Grades
+      - icon: github
+        text: Github
+        href: https://github.com/prasaath-sastha
+      - icon: linkedin
+        text: Linkedin
+        href: https://www.linkedin.com/in/prasaathsastha/
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    css: styles.css
+    toc: true
+
+editor: visual
+
