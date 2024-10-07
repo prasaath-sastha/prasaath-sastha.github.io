@@ -1,6 +1,0 @@
-[1,"==> quarto preview grades.qmd --to html --no-watch-inputs --no-browse\n\n"]
-[1,"pandoc \n  to: html\n  output-file: grades.html\n  standalone: true\n  title-prefix: Prasaath Sastha\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  theme:\n    light: cosmo\n    dark:\n      - cosmo\n      - theme-dark.scss\n  title: Grades\n  \n"]
-[1,"Output created: _site\\grades.html\n\nTerminating existing preview server...."]
-[1,"DONE\n\nPreparing to preview\n"]
-[1,"\nWatching files for changes\nBrowse at http://localhost:7174/grades.html\n"]
-[1,"GET: /grades.html\n"]
