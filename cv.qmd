@@ -47,15 +47,17 @@ editor: visual
 
 1.  Tested over 500 batches of packaging components (cartons, patient information leaflets, aluminium foils, and labels) using EyeC proofilers for artwork checks, and IR testing for material quality.
 2.  Analysed over 40 batches of bulk/finished/stability products - tablets, suspensions, and capsules in line with the market specifications and regulatory requirements. Analysis includes assay, relative substances or impurities, content uniformity, using HPLC (PDA/NonPDA), dissolution and UV.
-3.  Created workflow dashboards on Monday.com in stability sample management and reporting timelines. Worked with custom formulae to automate sample pull dates, testing requirements and analyst notifications as per the product stability protocol and supporting stability SOPs. Updated validated spreadsheets to calculate assay, related substances, and dissolution results to improve workflow and reporting results.
+3.  Created workflow dashboards on Monday.com in stability sample management and reporting timelines. Worked with custom formulae to automate sample pull dates, testing requirements and analyst notifications as per the product stability protocol and supporting stability SOPs.
+4.  Updated validated spreadsheets to calculate assay, related substances, and dissolution results to improve workflow and reporting results.
 
 ### **Research Assistant**
 
 #### [***Amura Health***](https://amura.ai/)***, Aug 2021 to Aug 2022***
 
 1.  Researched to collect and compile evidence based clinical and non-clinical information relevant to disease of interest to support protocol development.
-2.  Created relational databases to optimise workflows of physicians and physician assistants and was responsible for their maintenance. Organised and planned collection of body weight data of 1100 clients to analyse and interpret protocol efficacy. Collaborated in making protocol efficacy presentation that showed the firm´s protocols for obesity and diabetes management, which illustrated 60% supremacy.
-3.  Built and updated a clinical laboratory report analysis tool that improves the physicians´ report evaluation workflow.
+2.  Created relational databases to optimise workflows of physicians and physician assistants and was responsible for their maintenance. Organised and planned collection of body weight data of 1100 clients to analyse and interpret protocol efficacy.
+3.  Collaborated in making protocol efficacy presentation that showed the firm´s protocols for obesity and diabetes management, which illustrated 60% supremacy.
+4.  Built and updated a clinical laboratory report analysis tool that improves the physicians´ report evaluation workflow.
 
 ## **PUBLICATIONS**
 
