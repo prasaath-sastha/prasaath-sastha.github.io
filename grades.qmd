@@ -7,7 +7,7 @@ title: "Grades"
 University of Hertfordshire
 
 | Module | Credits | Grade | GPA |
-|--------------------------------------|----------|----------|---------------|
+|--------------------------------|--------------|--------------|--------------|
 | Molecular Cell Biology and Immunology | 30 | 77 | 4.25 |
 | Translational Medical Science | 30 | 79 | 4.25 |
 | Molecular Medicine | 30 | 81 | 4.5 |
@@ -20,7 +20,7 @@ Vinayaka Mission's College of Pharmacy, Vinayaka Mission's Research Foundation
 
 **Overall - 85%**
 
-| Module | Marks | Out of |
+| Module | Score | Out of |
 |------------------------|------------------------|------------------------|
 | **Year I - 87.1%** |  |  |
 | Human Anatomy and Physiology | 174 | 200 |

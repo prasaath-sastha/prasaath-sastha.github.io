@@ -9,23 +9,25 @@ editor: visual
 
 ### **Master's degree Drug Discovery and Toxicology**
 
-#### ***University Of Hertfordshire, Sep 2022 – Oct 2024***
+#### **University Of Hertfordshire,** [**Sep 2022 - Sep 2024**]{style="float: right;"}
+
+------------------------------------------------------------------------
 
 **Relevant Coursework:**
 
-1.  **Molecular Cell Biology and Immunology:** Focused learning on genetics of organisms, protein structure and function, DNA sequencing, molecular cloning, PCR and Recombinant DNA technology. **GPA: 4.5**
+1.  **Molecular Cell Biology and Immunology:** Focused learning on genetics of organisms, protein structure and function, DNA sequencing, molecular cloning, PCR and Recombinant DNA technology. [**GPA: 4.25**]{style="float: right;"}
 
     **Lab skills:** DNA extraction (Phenol chloroform method), Agar gel electrophoresis, SDS PAGE, Bradford assay, BCA assay, Nano star plate reader.
 
-2.  **Translational Medical Sciences:** Critical learning of novel approaches in target screening, lead optimisation, target validation and toxicity screening. Prepared and presented presentation on current prospects of Factor XI in Thromboembolic diseases. **GPA: 4.5**
+2.  **Translational Medical Sciences:** Critical learning of novel approaches in target screening, lead optimisation, target validation and toxicity screening. Prepared and presented presentation on current prospects of Factor XI in Thromboembolic diseases. [**GPA: 4.25**]{style="float: right;"}
 
     **Lab skills:** MTT assay
 
-3.  **Molecular Medicine:** Problem based learning to approach disease pathology at a molecular level for modulation of therapeutic strategies. **GPA: 4.25**
+3.  **Molecular Medicine:** Problem based learning to approach disease pathology at a molecular level for modulation of therapeutic strategies. [**GPA: 4.5**]{style="float: right;"}
 
     **PBL (Problem based learning):** Bacteriophage based solution for management of prostate adenocarcinoma.
 
-4.  **Contemporary topics in Drug Discovery and Toxicology:** Evaluate the applications of pharmacological and toxicological methods in fundamental research and the pharmaceutical industry. Clinical trial development, ICH, GCP, and preclinical toxicology **GPA: 4.25**
+4.  **Contemporary topics in Drug Discovery and Toxicology:** Evaluate the applications of pharmacological and toxicological methods in fundamental research and the pharmaceutical industry. Clinical trial development, ICH, GCP, and preclinical toxicology [**GPA: 4.25**]{style="float: right;"}
 
 5.  **Research Project:** Detection of Semi-carbazide Sensitive Amine Oxidase in rat brown adipose tissue and investigating the effects of caffeine and simvastatin on SSAO enzyme kinetics. Supervised by Dr. John Skamarauskas.
 
@@ -35,15 +37,15 @@ editor: visual
 
 ### **Doctor of Pharmacy**
 
-#### ***Vinayaka Missions Research Foundation, Aug 2015 – Aug 2021***
+#### ***Vinayaka Missions Research Foundation,*** [**Aug 2015 - Aug 2021**]{style="float: right;"}
 
-#### **Grade: First class with distinction (85%)**
+**Grade: First class with distinction (85%)**
 
 ## **WORK EXPERIENCE**
 
 ### **Quality Control Analyst**
 
-#### [***Eisai Manufacturing Limited***](https://www.eisai.eu/ "Link to Eisai Homepage") ***(GMP Laboratory), Jun 2023 – May 2024***
+#### [***Eisai Manufacturing Limited***](https://www.eisai.eu/ "Link to Eisai Homepage") ***(GMP Laboratory),*** [**Jun 2023 - May 2024**]{style="float: right;"}
 
 1.  Tested over 500 batches of packaging components (cartons, patient information leaflets, aluminium foils, and labels) using EyeC proofilers for artwork checks, and IR testing for material quality.
 2.  Analysed over 40 batches of bulk/finished/stability products - tablets, suspensions, and capsules in line with the market specifications and regulatory requirements. Analysis includes assay, relative substances or impurities, content uniformity, using HPLC (PDA/NonPDA), dissolution and UV.
@@ -52,7 +54,7 @@ editor: visual
 
 ### **Research Assistant**
 
-#### [***Amura Health***](https://amura.ai/)***, Aug 2021 to Aug 2022***
+#### [***Amura Health***](https://amura.ai/)***,*** [**Aug 2021 - Aug 2022**]{style="float: right;"}
 
 1.  Researched to collect and compile evidence based clinical and non-clinical information relevant to disease of interest to support protocol development.
 2.  Created relational databases to optimise workflows of physicians and physician assistants and was responsible for their maintenance. Organised and planned collection of body weight data of 1100 clients to analyse and interpret protocol efficacy.
