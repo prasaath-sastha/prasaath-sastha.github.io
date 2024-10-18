@@ -4,6 +4,7 @@ project:
 website:
   title: "Prasaath Sastha"
   open-graph: true
+  google-analytics: "G-JRCX5DKQ7P"
   favicon: me.png
   navbar:
     logo: me.png
@@ -25,6 +26,10 @@ website:
       - icon: linkedin
         text: Linkedin
         href: https://www.linkedin.com/in/prasaathsastha/
+drafts:
+      - href: blogindex.qmd
+        text: My Blog
+drafts-mode: unlinked
 
 format:
   html:

@@ -1,0 +1,20 @@
+---
+title: "Why R - personal reflection"
+draft: true
+description: "Why did I choose to learn R and what were my initial challanges."
+creator: "@Prasaath"
+author: "Prasaath Sastha"
+date: "2024-10-18"
+categories: [Personal, R, Project, Code]
+image: "image.jpg"
+---
+
+Honestly, I did not have much to do after my master's thesis. I had completed my experiments, collected data, processed it on excel, analyzed and plotted them on GraphPad Prism, and finally finished the write up. I still had a lot of time, and of-course, the allotted time for laboratory work was over and so no more experiments could be planned. I was going through my report, and then looked at the plots. These plots generated from GraphPad were really amazing. I have an habit of looking for different programs to make my tasks more efficient and professional. In the past, this has introduced me to a variety of tools such as publisher, adobe illustrator, to content creation tools such as videoscribe and explaindio. Minitab was the first tool I discovered for statistical operations, later GraphPad. To be entirely honest, I wanted to do something with my time. My google feed had this post, **Which is better, R or Python - for data analysis**
+
+<script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
