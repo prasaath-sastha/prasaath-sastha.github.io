@@ -10,6 +10,8 @@ website:
     logo: me.png
     pinned: true
     right: 
+      - href: https://prasaath-sastha.github.io/Blog/
+        text: My Blog
       - href: cv.qmd
         text: 🧑Curriculum Vittae
       - text: Projects
@@ -26,10 +28,8 @@ website:
       - icon: linkedin
         text: Linkedin
         href: https://www.linkedin.com/in/prasaathsastha/
-drafts:
-      - href: blogindex.qmd
-        text: My Blog
-drafts-mode: unlinked
+
+
 
 format:
   html:
