@@ -7,12 +7,12 @@ title: "Grades"
 University of Hertfordshire
 
 | Module | Credits | Grade | GPA |
-|--------------------------------|--------------|--------------|--------------|
+|------------------|------------------|------------------|------------------|
 | Molecular Cell Biology and Immunology | 30 | 77 | 4.25 |
 | Translational Medical Science | 30 | 79 | 4.25 |
 | Molecular Medicine | 30 | 81 | 4.5 |
 | Contemporary topics in Drug Discovery and Toxicology | 30 | 78 | 4.25 |
-| Research Project with Research Methodology | 60 | Pending | Pending |
+| [Research Project with Research Methodology](https://prasaath-sastha.github.io/MSc-Project/ "link to project site") | 60 | 84 | 4.5 |
 
 # Doctor of Pharmacy
 
